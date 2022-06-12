@@ -6,9 +6,8 @@ public class Login {
     @Given("I open browser")
     public void i_open_browser() {
         System.out.println("1");
-        System.out.println("13");
-
-    }
+        System.out.println("$done$");
+           }
 
     @When("I enter url")
     public void i_enter_url() {
