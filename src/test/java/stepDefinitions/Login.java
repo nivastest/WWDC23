@@ -5,8 +5,9 @@ import io.cucumber.java.en.*;
 public class Login {
     @Given("I open browser")
     public void i_open_browser() {
+
         System.out.println("1");
-        System.out.println("133");
+        System.out.println("$done$");
 
     }
 
