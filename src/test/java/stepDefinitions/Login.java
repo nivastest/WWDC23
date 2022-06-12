@@ -6,7 +6,7 @@ public class Login {
     @Given("I open browser")
     public void i_open_browser() {
         System.out.println("1");
-        System.out.println("13");
+        System.out.println("133");
 
     }
 
